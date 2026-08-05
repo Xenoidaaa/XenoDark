@@ -1,0 +1,23 @@
+{
+  "name": "XenoDark",
+  "displayName": "XenoDark",
+  "publisher": "Xenoida",
+  "description": "Custom dark theme for VS Code",
+  "icon": "xenoIcon.jpeg",
+  "version": "0.0.3",
+  "engines": {
+    "vscode": "^1.125.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "XenoDark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark Modern-color-theme.json"
+      }
+    ]
+  }
+}
