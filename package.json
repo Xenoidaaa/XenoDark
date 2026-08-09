@@ -4,7 +4,11 @@
   "publisher": "Xenoida",
   "description": "Custom dark theme for VS Code",
   "icon": "xenoIcon.jpeg",
-  "version": "0.0.3",
+  "version": "0.0.4",
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/Xenoidaaa/XenoDark.git"
+},
   "engines": {
     "vscode": "^1.125.0"
   },
@@ -16,7 +20,7 @@
       {
         "label": "XenoDark",
         "uiTheme": "vs-dark",
-        "path": "./themes/Dark Modern-color-theme.json"
+        "path": "./themes/XenoDark-color-theme.json"
       }
     ]
   }

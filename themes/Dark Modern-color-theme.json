@@ -23,7 +23,7 @@
     "editorLineNumber.foreground": "#bebebe",
     "editorLineNumber.activeForeground": "#FDFD96"
   },
-  "editor.semanticHighlighting.enabled": true,
+  /*"editor.semanticHighlighting.enabled": true,
   "[html]": {
     "editor.bracketPairColorization.enabled": false
   },
@@ -33,9 +33,9 @@
   "[c]": {
     "editor.semanticHighlighting.enabled": false
   },
-  "C_Cpp.enhancedColoring": "Disabled",
+  "C_Cpp.enhancedColoring": "Disabled",*/
   "tokenColors": [
-    {
+    /*{
       "name": "C Primitive Types (int, char, float, double, void)",
       "scope": [
         "storage.type.built-in.primitive.c",
@@ -1016,9 +1016,9 @@
   "settings": {
     "foreground": "#3498DB"
   }
-},
+},*/
 
-    {
+    /*{
       "name": "Comment", // #FFD700
       "scope": [
         "comment",
