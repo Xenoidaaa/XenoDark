@@ -222,14 +222,14 @@
         "keyword.other.unit"
       ],
       "settings": {
-        "foreground": "#B5CEA8"
+        "foreground": "#D4D4D4"
       }
     },
 
     {
       "scope": ["string.quoted"],
       "settings": {
-        "foreground": "#98C379" //#D4D4D4 //#C586C0
+        "foreground": "#A3BE8C" //#A3BE8C //#C586C0
       }
     },
     {
@@ -241,7 +241,7 @@
     {
       "scope": ["constant.numeric"],
       "settings": {
-        "foreground": "#B5CEA8"
+        "foreground": "#D4D4D4"
       }
     },
     {
@@ -262,7 +262,7 @@
         "constant.other.placeholder.js"
       ],
       "settings": {
-        "foreground": "#98C379"
+        "foreground": "#A3BE8C"
       }
     },
     {
@@ -526,14 +526,14 @@
       "name": "Function Name",
       "scope": ["entity.name.function.php", "entity.name.function"],
       "settings": {
-        "foreground": "#DCDCAA" // Ganti dengan Hex warna pilihanmu (misal #D4D4D4 atau warna lain)
+        "foreground": "#DCDCAA" // Ganti dengan Hex warna pilihanmu (misal #A3BE8C atau warna lain)
       }
     },
     {
       "name": "PHP Variable Name Only (title, price, dll)",
       "scope": ["variable.other.php", "variable.other", "variable"],
       "settings": {
-        "foreground": "#D4D4D4" // 1. Warna khusus untuk teks 'title'-nya
+        "foreground": "#E5E9F0" // 1. Warna khusus untuk teks 'title'-nya
       }
     },
     {
@@ -627,7 +627,7 @@
         "meta.function.parameter.typehinted.php variable.other.php"
       ],
       "settings": {
-        "foreground": "#D4D4D4" // Warna nama parameter khusus di dalam kurung function(...)
+        "foreground": "#E5E9F0" // Warna nama parameter khusus di dalam kurung function(...)
       }
     },
     {
@@ -671,7 +671,7 @@
         "variable.other.object.property.php"
       ],
       "settings": {
-        "foreground": "#D4D4D4" // Atau warna pilihanmu untuk NAMA variabel (misal abu-abu/biru)
+        "foreground": "#E5E9F0" // Atau warna pilihanmu untuk NAMA variabel (misal abu-abu/biru)
       }
     },
 
@@ -696,7 +696,7 @@
         "constant.numeric.js"
       ],
       "settings": {
-        "foreground": "#B5CEA8" // Warna angka pilihanmu (misal Oranye)
+        "foreground": "#D4D4D4" // Warna angka pilihanmu (misal Oranye)
       }
     },
     {
@@ -710,7 +710,7 @@
         "string.quoted.template"
       ],
       "settings": {
-        "foreground": "#98C379" // Warna isi teks string pilihanmu (misal Hijau Muda)
+        "foreground": "#A3BE8C" // Warna isi teks string pilihanmu (misal Hijau Muda)
       }
     },
     {
@@ -848,7 +848,7 @@
         "variable"
       ],
       "settings": {
-        "foreground": "#D4D4D4"
+        "foreground": "#E5E9F0"
       }
     },
     {
@@ -892,7 +892,7 @@
     "meta.method.body.java meta.function-call.java variable"
   ],
   "settings": {
-    "foreground": "#D4D4D4"
+    "foreground": "#E5E9F0"
   }
 },
 {
@@ -990,7 +990,7 @@
         "constant.numeric.binary"
       ],
       "settings": {
-        "foreground": "#B5CEA8"
+        "foreground": "#D4D4D4"
       }
     },
     {
@@ -1045,7 +1045,7 @@
   "name": "CSS Numbers",
   "scope": "constant.numeric.css",
   "settings": {
-    "foreground": "#B5CEA8"
+    "foreground": "#D4D4D4"
   }
 },
 {
@@ -1647,7 +1647,7 @@
     "meta.function-call.java meta.method-call.java"
   ],
   "settings": {
-    "foreground": "#D4D4D4"
+    "foreground": "#E5E9F0"
   }
 },
 {
@@ -1669,7 +1669,7 @@
     "meta.method-call.arguments.java variable"
   ],
   "settings": {
-    "foreground": "#D4D4D4"
+    "foreground": "#E5E9F0"
   }
 },
 {
@@ -1763,9 +1763,9 @@
     "property": "#9CDCFE",
     "variable.defaultLibrary": "#4EC9B0",
     "method.defaultLibrary": "#4EC9B0",
-    "variable.declaration": "#D4D4D4", //#C586C0
-    "variable.declaration.readonly": "#D4D4D4",
-    "variable": "#D4D4D4",
+    "variable.declaration": "#E5E9F0", //#C586C0
+    "variable.declaration.readonly": "#E5E9F0",
+    "variable": "#E5E9F0",
     "function.declaration": "#DCDCAA",
     "function.declaration.async": "#DCDCAA",
     "function.definition": "#DCDCAA",
@@ -1777,7 +1777,7 @@
     "method.declaration": "#DCDCAA",
     "keyword": "#3498DB",
     "keyword.control.loop": "#CE9178",
-    "variable.readonly.defaultLibrary": "#D4D4D4",
+    "variable.readonly.defaultLibrary": "#E5E9F0",
 
     // HTML SEMANTIC
     "punctuation.definition.tag": "#FFD700",
@@ -1807,17 +1807,17 @@
     // DART SEMANTIC
     "class:dart": "#4EC9B0",
     "type:dart": "#4EC9B0",
-    "number": "#B5CEA8",
-    "string": "#98C379",
+    "number": "#D4D4D4",
+    "string": "#A3BE8C", //#A3BE8C
 
     // JAVA SEMANTIC
     "parameter.label": "#9CDCFE",
     "variable.parameter": "#9CDCFE",
     "keyword.controlFlow": "#C586C0",
     "keyword.controlFlow:java": "#C586C0",
-    "variable.other.readwrite": "#D4D4D4",
-    "variable.local": "#D4D4D4",
-    "variable:java": "#D4D4D4",
+    "variable.other.readwrite": "#E5E9F0",
+    "variable.local": "#E5E9F0",
+    "variable:java": "#E5E9F0",
 
     // CPP SEMANTIK
     "variable.global:cpp": "#9CDCFE",
