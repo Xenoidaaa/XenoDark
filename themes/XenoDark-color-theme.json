@@ -1778,6 +1778,7 @@
     "keyword": "#3498DB",
     "keyword.control.loop": "#CE9178",
     "variable.readonly.defaultLibrary": "#E5E9F0",
+    "property.defaultLibrary:javascript": "#4EC9B0",
 
     // HTML SEMANTIC
     "punctuation.definition.tag": "#FFD700",
