@@ -105,7 +105,7 @@
         "string.quoted.double.include.c"
       ],
       "settings": {
-        "foreground": "#CE9178" // Contoh: Oranye / Hijau Mint / Kuning
+        "foreground": "#C586C0" // Contoh: Oranye / Hijau Mint / Kuning
       }
     },
     {
@@ -268,7 +268,7 @@
     {
       "scope": "constant.language.boolean, constant.language.undefined",
       "settings": {
-        "foreground": "#CE9178"
+        "foreground": "#C586C0"
       }
     },
     {
@@ -413,7 +413,7 @@
       "name": "Loops (for, while)",
       "scope": ["keyword.control.loop", "keyword.control.loop.js"],
       "settings": {
-        "foreground": "#CE9178" // 👈 Warna Kuning-Oranye Warm milikmu
+        "foreground": "#C586C0" // 👈 Warna Kuning-Oranye Warm milikmu
       }
     },
     {
@@ -552,7 +552,7 @@
         "keyword.control.loop.php"
       ],
       "settings": {
-        "foreground": "#CE9178" // Ganti dengan Hex warna loop pilihanmu (misal Biru)
+        "foreground": "#C586C0" // Ganti dengan Hex warna loop pilihanmu (misal Biru)
       }
     },
     {
@@ -659,7 +659,7 @@
         "keyword.control"
       ],
       "settings": {
-        "foreground": "#CE9178" // Ganti Hex ini dengan warna keyword control pilihanmu (misal Ungu)
+        "foreground": "#C586C0" // Ganti Hex ini dengan warna keyword control pilihanmu (misal Ungu)
       }
     },
     {
@@ -953,7 +953,7 @@
   "name": "C++ Include Header Names",
   "scope": "string.quoted.other.lt-gt.include.cpp",
   "settings": {
-    "foreground": "#CE9178"
+    "foreground": "#C586C0"
   }
 },
 {
@@ -1003,7 +1003,7 @@
     "keyword.control.do"
   ],
   "settings": {
-    "foreground": "#CE9178"
+    "foreground": "#C586C0"
   }
 },
 {
@@ -1682,7 +1682,7 @@
     "keyword.control.do"
   ],
   "settings": {
-    "foreground": "#CE9178"
+    "foreground": "#C586C0"
   }
 },
 {
@@ -1692,7 +1692,7 @@
     "keyword.control.repeat"
   ],
   "settings": {
-    "foreground": "#CE9178"
+    "foreground": "#C586C0"
   }
 },
 {
@@ -1776,7 +1776,7 @@
     "method": "#DCDCAA",
     "method.declaration": "#DCDCAA",
     "keyword": "#3498DB",
-    "keyword.control.loop": "#CE9178",
+    "keyword.control.loop": "#C586C0",
     "variable.readonly.defaultLibrary": "#E5E9F0",
     "property.defaultLibrary:javascript": "#4EC9B0",
 
