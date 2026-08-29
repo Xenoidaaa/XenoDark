@@ -1,21 +1,21 @@
 {
   "name": "XenoDark",
   "colors": {
-    "editor.background": "#1B1B1B",
-    "sideBar.background": "#181818",
-    "activityBar.background": "#181818",
-    "titleBar.activeBackground": "#181818",
+    "editor.background": "#2d2a2e",
+    "sideBar.background": "#221f22",
+    "activityBar.background": "#221f22",
+    "titleBar.activeBackground": "#19181a",
     "titleBar.inactiveBackground": "#181818",
-    "editorGroupHeader.tabsBackground": "#181818",
-    "tab.activeBackground": "#181818",
-    "tab.inactiveBackground": "#181818",
-    "panel.background": "#181818",
+    "editorGroupHeader.tabsBackground": "#221f22",
+    "tab.activeBackground": "#2d2a2e",
+    "tab.inactiveBackground": "#221f22",
+    "panel.background": "#221f22",
     "terminal.background": "#010101",
-    "statusBar.background": "#252526",
-    "minimap.background": "#1B1B1B",
-    "scrollbar.background": "#181818",
-    "editorGutter.background": "#1B1B1B",
-    "breadcrumb.background": "#1B1B1B",
+    "statusBar.background": "#19181a",
+    "minimap.background": "#2d2a2e",
+    "scrollbar.background": "#221f22",
+    "editorGutter.background": "#2d2a2e",
+    "breadcrumb.background": "#2d2a2e",
     "editor.lineHighlightBackground": "#18181800",
     "editor.lineHighlightBorder": "#18181800",
     "editorIndentGuide.background1": "#383737",
@@ -222,7 +222,7 @@
         "keyword.other.unit"
       ],
       "settings": {
-        "foreground": "#D4D4D4"
+        "foreground": "#F8F8F2"
       }
     },
 
@@ -241,7 +241,7 @@
     {
       "scope": ["constant.numeric"],
       "settings": {
-        "foreground": "#D4D4D4"
+        "foreground": "#2489F4"
       }
     },
     {
@@ -399,7 +399,7 @@
         "constant.language.boolean"
       ],
       "settings": {
-        "foreground": "#F7768E" // 👈 Warna bawaan VS Code biasanya biru terang/medium (#569CD6)
+        "foreground": "#3498DB" // 👈 Warna bawaan VS Code biasanya biru terang/medium (#569CD6)
       }
     },
     {
@@ -648,7 +648,7 @@
         "constant.language"
       ],
       "settings": {
-        "foreground": "#F7768E" // Ganti Hex ini dengan warna boolean pilihanmu (misal Pink/Oranye)
+        "foreground": "#3498DB" // Ganti Hex ini dengan warna boolean pilihanmu (misal Pink/Oranye)
       }
     },
     {
@@ -696,7 +696,7 @@
         "constant.numeric.js"
       ],
       "settings": {
-        "foreground": "#D4D4D4" // Warna angka pilihanmu (misal Oranye)
+        "foreground": "#2489F4" // Warna angka pilihanmu (misal Oranye)
       }
     },
     {
@@ -990,7 +990,7 @@
         "constant.numeric.binary"
       ],
       "settings": {
-        "foreground": "#D4D4D4"
+        "foreground": "#2489F4"
       }
     },
     {
@@ -1808,7 +1808,7 @@
     // DART SEMANTIC
     "class:dart": "#4EC9B0",
     "type:dart": "#4EC9B0",
-    "number": "#D4D4D4",
+    "number": "#F8F8F2",
     "string": "#A3BE8C", //#A3BE8C
 
     // JAVA SEMANTIC
