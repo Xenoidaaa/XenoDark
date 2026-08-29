@@ -55,7 +55,7 @@
         "entity.name.variable.field"
       ],
       "settings": {
-        "foreground": "#9CDCFE"
+        "foreground": "#C3EAFF"
       }
     },
     {
@@ -66,14 +66,14 @@
         "variable.parameter.probably.c"
       ],
       "settings": {
-        "foreground": "#9CDCFE"
+        "foreground": "#C3EAFF"
       }
     },
     {
       "name": "C Control Keywords (if, else, return)",
       "scope": ["keyword.control.c", "keyword.control"],
       "settings": {
-        "foreground": "#C586C0"
+        "foreground": "#D2A8FF"
       }
     },
     {
@@ -95,7 +95,7 @@
         "meta.preprocessor.c"
       ],
       "settings": {
-        "foreground": "#C586C0"
+        "foreground": "#D2A8FF"
       }
     },
     {
@@ -105,7 +105,7 @@
         "string.quoted.double.include.c"
       ],
       "settings": {
-        "foreground": "#C586C0" // Contoh: Oranye / Hijau Mint / Kuning
+        "foreground": "#D2A8FF" // Contoh: Oranye / Hijau Mint / Kuning
       }
     },
     {
@@ -155,7 +155,7 @@
         "meta.function.definition.c entity.name.function.c"
       ],
       "settings": {
-        "foreground": "#DCDCAA"
+        "foreground": "#ECE9AC"
       }
     },
     {
@@ -188,7 +188,7 @@
         "variable.function"
       ],
       "settings": {
-        "foreground": "#DCDCAA"
+        "foreground": "#ECE9AC"
       }
     },
     {
@@ -210,7 +210,7 @@
         "meta.object.member"
       ],
       "settings": {
-        "foreground": "#9CDCFE"
+        "foreground": "#C3EAFF"
       }
     },
     {
@@ -222,14 +222,14 @@
         "keyword.other.unit"
       ],
       "settings": {
-        "foreground": "#F8F8F2"
+        "foreground": "#C5E1B8"
       }
     },
 
     {
       "scope": ["string.quoted"],
       "settings": {
-        "foreground": "#A3BE8C" //#A3BE8C //#C586C0
+        "foreground": "#E2F5D8" //#E2F5D8 //#D2A8FF
       }
     },
     {
@@ -241,7 +241,7 @@
     {
       "scope": ["constant.numeric"],
       "settings": {
-        "foreground": "#2489F4"
+        "foreground": "#C5E1B8"
       }
     },
     {
@@ -252,7 +252,7 @@
         "keyword.control.conditional.tsx"
       ],
       "settings": {
-        "foreground": "#C586C0"
+        "foreground": "#D2A8FF"
       }
     },
     {
@@ -262,13 +262,13 @@
         "constant.other.placeholder.js"
       ],
       "settings": {
-        "foreground": "#A3BE8C"
+        "foreground": "#E2F5D8"
       }
     },
     {
       "scope": "constant.language.boolean, constant.language.undefined",
       "settings": {
-        "foreground": "#C586C0"
+        "foreground": "#D2A8FF"
       }
     },
     {
@@ -289,7 +289,7 @@
         "meta.definition.function"
       ],
       "settings": {
-        "foreground": "#DCDCAA"
+        "foreground": "#ECE9AC"
       }
     },
     {
@@ -309,7 +309,7 @@
         "keyword.control.flow"
       ],
       "settings": {
-        "foreground": "#C586C0"
+        "foreground": "#D2A8FF"
       }
     },
     {
@@ -413,7 +413,7 @@
       "name": "Loops (for, while)",
       "scope": ["keyword.control.loop", "keyword.control.loop.js"],
       "settings": {
-        "foreground": "#C586C0" // 👈 Warna Kuning-Oranye Warm milikmu
+        "foreground": "#D2A8FF" // 👈 Warna Kuning-Oranye Warm milikmu
       }
     },
     {
@@ -423,7 +423,7 @@
         "keyword.operator.expression.in"
       ],
       "settings": {
-        "foreground": "#3498DB" // 👈 Masukkan hex pilihanmu (default VS Code disamakan dengan keyword/operator seperti #C586C0)
+        "foreground": "#3498DB" // 👈 Masukkan hex pilihanmu (default VS Code disamakan dengan keyword/operator seperti #D2A8FF)
       }
     },
     {
@@ -466,7 +466,7 @@
         "string.quoted.single.html"
       ],
       "settings": {
-        "foreground": "#9CDCFE" // Ganti Hex ini dengan warna khusus string HTML yang kamu mau
+        "foreground": "#C3EAFF" // Ganti Hex ini dengan warna khusus string HTML yang kamu mau
       }
     },
     {
@@ -477,7 +477,7 @@
     "text.html"
   ],
   "settings": {
-    "foreground": "#C586C0"
+    "foreground": "#D2A8FF"
   }
 },
 {
@@ -519,14 +519,14 @@
         "keyword.control.flow.return.php"
       ],
       "settings": {
-        "foreground": "#C586C0" // Ganti dengan kode Hex warna pilihanmu
+        "foreground": "#D2A8FF" // Ganti dengan kode Hex warna pilihanmu
       }
     },
     {
       "name": "Function Name",
       "scope": ["entity.name.function.php", "entity.name.function"],
       "settings": {
-        "foreground": "#DCDCAA" // Ganti dengan Hex warna pilihanmu (misal #A3BE8C atau warna lain)
+        "foreground": "#ECE9AC" // Ganti dengan Hex warna pilihanmu (misal #E2F5D8 atau warna lain)
       }
     },
     {
@@ -552,7 +552,7 @@
         "keyword.control.loop.php"
       ],
       "settings": {
-        "foreground": "#C586C0" // Ganti dengan Hex warna loop pilihanmu (misal Biru)
+        "foreground": "#D2A8FF" // Ganti dengan Hex warna loop pilihanmu (misal Biru)
       }
     },
     {
@@ -617,7 +617,7 @@
       "name": "PHP Variables (All)",
       "scope": ["variable.other.php", "variable.other"],
       "settings": {
-        "foreground": "#9CDCFE" // Semua nama variabel jadi warna ini
+        "foreground": "#C3EAFF" // Semua nama variabel jadi warna ini
       }
     },
     {
@@ -659,7 +659,7 @@
         "keyword.control"
       ],
       "settings": {
-        "foreground": "#C586C0" // Ganti Hex ini dengan warna keyword control pilihanmu (misal Ungu)
+        "foreground": "#D2A8FF" // Ganti Hex ini dengan warna keyword control pilihanmu (misal Ungu)
       }
     },
     {
@@ -696,7 +696,7 @@
         "constant.numeric.js"
       ],
       "settings": {
-        "foreground": "#2489F4" // Warna angka pilihanmu (misal Oranye)
+        "foreground": "#C5E1B8" // Warna angka pilihanmu (misal Oranye)
       }
     },
     {
@@ -710,7 +710,7 @@
         "string.quoted.template"
       ],
       "settings": {
-        "foreground": "#A3BE8C" // Warna isi teks string pilihanmu (misal Hijau Muda)
+        "foreground": "#E2F5D8" // Warna isi teks string pilihanmu (misal Hijau Muda)
       }
     },
     {
@@ -824,7 +824,7 @@
         "meta.method.identifier.java"
       ],
       "settings": {
-        "foreground": "#DCDCAA"
+        "foreground": "#ECE9AC"
       }
     },
     {
@@ -835,7 +835,7 @@
         "meta.method.declaration.java variable.parameter"
       ],
       "settings": {
-        "foreground": "#9CDCFE"
+        "foreground": "#C3EAFF"
       }
     },
     {
@@ -860,14 +860,14 @@
         "source.java meta.method.body.java"
       ],
       "settings": {
-        "foreground": "#9CDCFE"
+        "foreground": "#C3EAFF"
       }
     },
     {
       "name": "Target Specific Return and Conditionals in Java",
       "scope": ["keyword.control.java", "keyword.control"],
       "settings": {
-        "foreground": "#C586C0"
+        "foreground": "#D2A8FF"
       }
     },
     {
@@ -925,7 +925,7 @@
     "keyword.control.return.cpp"
   ],
   "settings": {
-    "foreground": "#C586C0"
+    "foreground": "#D2A8FF"
   }
 },
 {
@@ -939,7 +939,7 @@
   "name": "C++ cout Object",
   "scope": "variable.other.unknown.cout.cpp",
   "settings": {
-    "foreground": "#9CDCFE"
+    "foreground": "#C3EAFF"
   }
 },
 {
@@ -953,7 +953,7 @@
   "name": "C++ Include Header Names",
   "scope": "string.quoted.other.lt-gt.include.cpp",
   "settings": {
-    "foreground": "#C586C0"
+    "foreground": "#D2A8FF"
   }
 },
 {
@@ -990,7 +990,7 @@
         "constant.numeric.binary"
       ],
       "settings": {
-        "foreground": "#2489F4"
+        "foreground": "#C5E1B8"
       }
     },
     {
@@ -1003,7 +1003,7 @@
     "keyword.control.do"
   ],
   "settings": {
-    "foreground": "#C586C0"
+    "foreground": "#D2A8FF"
   }
 },
 {
@@ -1038,7 +1038,7 @@
   "name": "CSS Class Selectors",
   "scope": "entity.other.attribute-name.class.css",
   "settings": {
-    "foreground": "#DCDCAA"
+    "foreground": "#ECE9AC"
   }
 },
 {
@@ -1052,7 +1052,7 @@
   "name": "CSS Property Values",
   "scope": "support.constant.property-value.css",
   "settings": {
-    "foreground": "#C586C0"
+    "foreground": "#D2A8FF"
   }
 },
 {
@@ -1244,7 +1244,7 @@
         "source.postcss support.type.property-name"
       ],
       "settings": {
-        "foreground": "#9CDCFE"
+        "foreground": "#C3EAFF"
       }
     },
     {
@@ -1637,7 +1637,7 @@
     "source"
   ],
   "settings": {
-    "foreground": "#C586C0" // Ganti dengan warna syntax utama racikanmu (misal biru langit)
+    "foreground": "#D2A8FF" // Ganti dengan warna syntax utama racikanmu (misal biru langit)
   }
 }*/
 {
@@ -1657,7 +1657,7 @@
     "meta.function-call.java entity.name.function.java"
   ],
   "settings": {
-    "foreground": "#DCDCAA"
+    "foreground": "#ECE9AC"
   }
 },
 {
@@ -1682,7 +1682,7 @@
     "keyword.control.do"
   ],
   "settings": {
-    "foreground": "#C586C0"
+    "foreground": "#D2A8FF"
   }
 },
 {
@@ -1692,7 +1692,7 @@
     "keyword.control.repeat"
   ],
   "settings": {
-    "foreground": "#C586C0"
+    "foreground": "#D2A8FF"
   }
 },
 {
@@ -1759,24 +1759,24 @@
     "method.builtin": "#4EC9B0",
     "class.builtin": "#4EC9B0",
     "*.comment": "#546E7A",
-    "parameter": "#9CDCFE",
-    "property": "#9CDCFE",
-    "variable.defaultLibrary": "#4EC9B0",
+    "parameter": "#C3EAFF",
+    "property": "#C3EAFF",
+    "variable.defaultLibrary": "#C3EAFF",
     "method.defaultLibrary": "#4EC9B0",
-    "variable.declaration": "#E5E9F0", //#C586C0
+    "variable.declaration": "#E5E9F0", //#D2A8FF
     "variable.declaration.readonly": "#E5E9F0",
     "variable": "#E5E9F0",
-    "function.declaration": "#DCDCAA",
-    "function.declaration.async": "#DCDCAA",
-    "function.definition": "#DCDCAA",
-    "function": "#DCDCAA",
+    "function.declaration": "#ECE9AC",
+    "function.declaration.async": "#ECE9AC",
+    "function.definition": "#ECE9AC",
+    "function": "#ECE9AC",
     "class.defaultLibrary": "#4EC9B0",
     "type.defaultLibrary": "#4EC9B0",
     "variable.this": "#4EC9B0",
-    "method": "#DCDCAA",
-    "method.declaration": "#DCDCAA",
+    "method": "#ECE9AC",
+    "method.declaration": "#ECE9AC",
     "keyword": "#3498DB",
-    "keyword.control.loop": "#C586C0",
+    "keyword.control.loop": "#D2A8FF",
     "variable.readonly.defaultLibrary": "#E5E9F0",
     "property.defaultLibrary:javascript": "#4EC9B0",
 
@@ -1791,37 +1791,37 @@
     "struct": "#4EC9B0",
     "keyword.type": "#3498DB",
     "storage.type": "#3498DB",
-    "keyword.control": "#C586C0",
+    "keyword.control": "#D2A8FF",
     "function.defaultLibrary:c": "#4EC9B0", // malloc, free, printf
     "defaultLibrary:c": "#4EC9B0",
-    "function.declaration:c": "#DCDCAA",
-    "function.definition:c": "#DCDCAA",
-    "macro:c": "#C586C0",
+    "function.declaration:c": "#ECE9AC",
+    "function.definition:c": "#ECE9AC",
+    "macro:c": "#D2A8FF",
     "keyword.control.switch": "#3498DB",
     "keyword.control.case": "#3498DB",
     "keyword.control.default": "#3498DB",
     "function:c": "#4EC9B0",
-    "method.declaration:c": "#DCDCAA",
-    "*.declaration:c": "#DCDCAA",
-    "*.definition:c": "#DCDCAA",
+    "method.declaration:c": "#ECE9AC",
+    "*.declaration:c": "#ECE9AC",
+    "*.definition:c": "#ECE9AC",
 
     // DART SEMANTIC
     "class:dart": "#4EC9B0",
     "type:dart": "#4EC9B0",
     "number": "#F8F8F2",
-    "string": "#A3BE8C", //#A3BE8C
+    "string": "#E2F5D8", //#E2F5D8
 
     // JAVA SEMANTIC
-    "parameter.label": "#9CDCFE",
-    "variable.parameter": "#9CDCFE",
-    "keyword.controlFlow": "#C586C0",
-    "keyword.controlFlow:java": "#C586C0",
+    "parameter.label": "#C3EAFF",
+    "variable.parameter": "#C3EAFF",
+    "keyword.controlFlow": "#D2A8FF",
+    "keyword.controlFlow:java": "#D2A8FF",
     "variable.other.readwrite": "#E5E9F0",
     "variable.local": "#E5E9F0",
     "variable:java": "#E5E9F0",
 
     // CPP SEMANTIK
-    "variable.global:cpp": "#9CDCFE",
+    "variable.global:cpp": "#C3EAFF",
     "memberOperatorOverload:cpp": "#3498DB"
   }
 }
