@@ -235,7 +235,7 @@
     {
       "scope": ["entity.name.tag"],
       "settings": {
-        "foreground": "#4EC9B0"
+        "foreground": "#ECE9AC"
       }
     },
     {
