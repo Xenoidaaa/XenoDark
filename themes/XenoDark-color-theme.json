@@ -21,7 +21,11 @@
     "editorIndentGuide.background1": "#383737",
     "editorIndentGuide.activeBackground1": "#383737",
     "editorLineNumber.foreground": "#bebebe",
-    "editorLineNumber.activeForeground": "#FDFD96"
+    "editorLineNumber.activeForeground": "#FDFD96",
+
+    "editorBracketHighlight.foreground1": "#E6C384",
+    "editorBracketHighlight.foreground2": "#D2A8FF",
+    "editorBracketHighlight.foreground3": "#3498DB",
   },
   /*"editor.semanticHighlighting.enabled": true,
   "[html]": {
@@ -80,7 +84,7 @@
       "name": "C Standard Library Functions Only",
       "scope": ["support.function.c", "support.function.builtin.c"],
       "settings": {
-        "foreground": "#4EC9B0"
+        "foreground": "#56D7BD"
       }
     },
     {
@@ -131,7 +135,7 @@
       "name": "C Storage Modifiers (const, static, extern, volatile)",
       "scope": ["storage.modifier.c", "storage.modifier.specifier.c"],
       "settings": {
-        "foreground": "#4EC9B0" // Warna untuk const, static, extern
+        "foreground": "#56D7BD" // Warna untuk const, static, extern
       }
     },
     {
@@ -162,7 +166,7 @@
       "name": "C Function Calls (TextMate Fallback)",
       "scope": ["meta.function-call.c", "support.function.c"],
       "settings": {
-        "foreground": "#4EC9B0"
+        "foreground": "#56D7BD"
       }
     },
 
@@ -195,7 +199,7 @@
       "name": "JavaScript special variables (this)",
       "scope": ["variable.language.this", "variable.language.this.js"],
       "settings": {
-        "foreground": "#4EC9B0" // Masukkan warna racikanmu
+        "foreground": "#56D7BD" // Masukkan warna racikanmu
       }
     },
     {
@@ -279,7 +283,7 @@
         "meta.function-call"
       ],
       "settings": {
-        "foreground": "#4EC9B0"
+        "foreground": "#56D7BD"
       }
     },
     {
@@ -319,7 +323,7 @@
         "support.variable"
       ],
       "settings": {
-        "foreground": "#4EC9B0"
+        "foreground": "#56D7BD"
       }
     },
     {
@@ -562,7 +566,7 @@
         "support.function.construct.php"
       ],
       "settings": {
-        "foreground": "#4EC9B0" // Ganti dengan Hex warna pilihanmu
+        "foreground": "#56D7BD" // Ganti dengan Hex warna pilihanmu
       }
     },
     {
@@ -579,7 +583,7 @@
         "support.function"
       ],
       "settings": {
-        "foreground": "#4EC9B0" // Ganti dengan Hex warna pilihanmu (misal Kuning, Cyan, dll)
+        "foreground": "#56D7BD" // Ganti dengan Hex warna pilihanmu (misal Kuning, Cyan, dll)
       }
     },
     {
@@ -596,7 +600,7 @@
         "support.function.construct.output.php"
       ],
       "settings": {
-        "foreground": "#4EC9B0" // Ganti Hex ini dengan warna yang kamu inginkan
+        "foreground": "#56D7BD" // Ganti Hex ini dengan warna yang kamu inginkan
       }
     },
     {
@@ -684,7 +688,7 @@
         "support.type.primitive.dart"
       ],
       "settings": {
-        "foreground": "#4EC9B0" // Ganti Hex ini dengan warna pilihanmu (misal Hijau Toska / Kuning)
+        "foreground": "#56D7BD" // Ganti Hex ini dengan warna pilihanmu (misal Hijau Toska / Kuning)
       }
     },
     {
@@ -739,7 +743,7 @@
         "support.class.builtin"
       ],
       "settings": {
-        "foreground": "#4EC9B0" // Gunakan kode warna hijau/biru fungsi bawaan pilihanmu
+        "foreground": "#56D7BD" // Gunakan kode warna hijau/biru fungsi bawaan pilihanmu
       }
     },
     {
@@ -765,7 +769,7 @@
         "entity.name.function.member.java"
       ],
       "settings": {
-        "foreground": "#4EC9B0"
+        "foreground": "#56D7BD"
       }
     },
     {
@@ -788,7 +792,7 @@
         "entity.name.class"
       ],
       "settings": {
-        "foreground": "#4EC9B0" // Ganti dengan warna pilihanmu untuk nama kelas 'Main'
+        "foreground": "#56D7BD" // Ganti dengan warna pilihanmu untuk nama kelas 'Main'
       }
     },
     {
@@ -813,7 +817,7 @@
         "storage.type"
       ],
       "settings": {
-        "foreground": "#4EC9B0"
+        "foreground": "#56D7BD"
       }
     },
     {
@@ -878,7 +882,7 @@
     "storage.type.annotation.java"
   ],
   "settings": {
-    "foreground": "#4EC9B0" // Samakan dengan warna double, int, void
+    "foreground": "#56D7BD" // Samakan dengan warna double, int, void
   }
 },
 {
@@ -902,7 +906,7 @@
     "variable.other.object.java"
   ],
   "settings": {
-    "foreground": "#4EC9B0" // Misal: warna hijau/kuning kelas
+    "foreground": "#56D7BD" // Misal: warna hijau/kuning kelas
   }
 },
 {
@@ -912,7 +916,7 @@
     "variable.other.property.java"
   ],
   "settings": {
-    "foreground": "#4EC9B0" // Misal: warna property pilihanmu
+    "foreground": "#56D7BD" // Misal: warna property pilihanmu
   }
 },
 
@@ -932,7 +936,7 @@
   "name": "C++ std Namespace",
   "scope": "entity.name.namespace.cpp",
   "settings": {
-    "foreground": "#4EC9B0"
+    "foreground": "#56D7BD"
   }
 },
 {
@@ -946,7 +950,7 @@
   "name": "C++ static_cast Default Color",
   "scope": "keyword.operator.cast.static_cast.cpp",
   "settings": {
-    "foreground": "#4EC9B0"
+    "foreground": "#56D7BD"
   }
 },
 {
@@ -1030,7 +1034,7 @@
     "support.type.primitive.tsx"
   ],
   "settings": {
-    "foreground": "#4EC9B0"
+    "foreground": "#56D7BD"
   }
 },
 // CSS COLORING
@@ -1045,7 +1049,7 @@
   "name": "CSS Numbers",
   "scope": "constant.numeric.css",
   "settings": {
-    "foreground": "#D4D4D4"
+    "foreground": "#C5E1B8"
   }
 },
 {
@@ -1149,7 +1153,7 @@
         "markup.deleted.git_gutter"
       ],
       "settings": {
-        "foreground": "#4EC9B0"
+        "foreground": "#56D7BD"
       }
     },
     {
@@ -1755,14 +1759,14 @@
   "semanticHighlighting": true,
   "semanticTokenColors": {
     // GLOBAL SEMANTIK
-    "function.builtin": "#4EC9B0",
-    "method.builtin": "#4EC9B0",
-    "class.builtin": "#4EC9B0",
+    "function.builtin": "#56D7BD",
+    "method.builtin": "#56D7BD",
+    "class.builtin": "#56D7BD",
     "*.comment": "#546E7A",
     "parameter": "#C3EAFF",
     "property": "#C3EAFF",
     "variable.defaultLibrary": "#C3EAFF",
-    "method.defaultLibrary": "#4EC9B0",
+    "method.defaultLibrary": "#56D7BD",
     "variable.declaration": "#E5E9F0", //#D2A8FF
     "variable.declaration.readonly": "#E5E9F0",
     "variable": "#E5E9F0",
@@ -1770,44 +1774,44 @@
     "function.declaration.async": "#ECE9AC",
     "function.definition": "#ECE9AC",
     "function": "#ECE9AC",
-    "class.defaultLibrary": "#4EC9B0",
-    "type.defaultLibrary": "#4EC9B0",
-    "variable.this": "#4EC9B0",
+    "class.defaultLibrary": "#56D7BD",
+    "type.defaultLibrary": "#56D7BD",
+    "variable.this": "#56D7BD",
     "method": "#ECE9AC",
     "method.declaration": "#ECE9AC",
     "keyword": "#3498DB",
     "keyword.control.loop": "#D2A8FF",
     "variable.readonly.defaultLibrary": "#E5E9F0",
-    "property.defaultLibrary:javascript": "#4EC9B0",
+    "property.defaultLibrary:javascript": "#56D7BD",
 
     // HTML SEMANTIC
     "punctuation.definition.tag": "#FFD700",
 
     // C LANG SEMANTIC
-    "type": "#4EC9B0",
+    "type": "#56D7BD",
     "type:c": "#3498DB",
     "type.builtin": "#3498DB",
-    "function.builtin:c": "#4EC9B0",
-    "struct": "#4EC9B0",
+    "function.builtin:c": "#56D7BD",
+    "struct": "#56D7BD",
     "keyword.type": "#3498DB",
     "storage.type": "#3498DB",
     "keyword.control": "#D2A8FF",
-    "function.defaultLibrary:c": "#4EC9B0", // malloc, free, printf
-    "defaultLibrary:c": "#4EC9B0",
+    "function.defaultLibrary:c": "#56D7BD", // malloc, free, printf
+    "defaultLibrary:c": "#56D7BD",
     "function.declaration:c": "#ECE9AC",
     "function.definition:c": "#ECE9AC",
     "macro:c": "#D2A8FF",
     "keyword.control.switch": "#3498DB",
     "keyword.control.case": "#3498DB",
     "keyword.control.default": "#3498DB",
-    "function:c": "#4EC9B0",
+    "function:c": "#56D7BD",
     "method.declaration:c": "#ECE9AC",
     "*.declaration:c": "#ECE9AC",
     "*.definition:c": "#ECE9AC",
 
     // DART SEMANTIC
-    "class:dart": "#4EC9B0",
-    "type:dart": "#4EC9B0",
+    "class:dart": "#56D7BD",
+    "type:dart": "#56D7BD",
     "number": "#F8F8F2",
     "string": "#E2F5D8", //#E2F5D8
 
