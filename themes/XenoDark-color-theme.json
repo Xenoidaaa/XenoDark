@@ -470,7 +470,7 @@
         "string.quoted.single.html"
       ],
       "settings": {
-        "foreground": "#C3EAFF" // Ganti Hex ini dengan warna khusus string HTML yang kamu mau
+        "foreground": "#E2F5D8" // Ganti Hex ini dengan warna khusus string HTML yang kamu mau
       }
     },
     {
@@ -491,7 +491,7 @@
       "entity.other.attribute-name.html"
     ],
     "settings": {
-      "foreground": "#ECE9AC"
+      "foreground": "#C3EAFF"
     }
   },
   {
@@ -1645,6 +1645,18 @@
   }
 }*/
 {
+  "name": "Jsx/HTML",
+  "scope": [
+    "jsx.children",
+    "meta.jsx.children",
+    "text.html.derivative",
+    "meta.embedded.line.javascript"
+  ],
+  "settings": {
+    "foreground": "#E2F5D8",
+  }
+},
+{
   "name": "Java Function Call Arguments Override",
   "scope": [
     "meta.function-call.java",
@@ -1754,7 +1766,7 @@
   "settings": {
     "foreground": "#3498DB"
   }
-}
+},
   ],
   "semanticHighlighting": true,
   "semanticTokenColors": {
@@ -1826,6 +1838,9 @@
 
     // CPP SEMANTIK
     "variable.global:cpp": "#C3EAFF",
-    "memberOperatorOverload:cpp": "#3498DB"
-  }
+    "memberOperatorOverload:cpp": "#3498DB",
+
+    // JSX
+    
+  },
 }
