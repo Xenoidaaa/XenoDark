@@ -229,7 +229,7 @@
         "keyword.other.unit"
       ],
       "settings": {
-        "foreground": "#C5E1B8"
+        "foreground": "#B5CEA8"
       }
     },
 
@@ -248,7 +248,7 @@
     {
       "scope": ["constant.numeric"],
       "settings": {
-        "foreground": "#C5E1B8"
+        "foreground": "#B5CEA8"
       }
     },
     {
@@ -523,7 +523,7 @@
       "punctuation.definition.tag.end.html"
     ],
     "settings": {
-      "foreground": "#D4D4D4"
+      "foreground": "#808080"
     }
   },
     // PHP COLORING
@@ -722,7 +722,7 @@
         "constant.numeric.js"
       ],
       "settings": {
-        "foreground": "#C5E1B8" // Warna angka pilihanmu (misal Oranye)
+        "foreground": "#B5CEA8" // Warna angka pilihanmu (misal Oranye)
       }
     },
     {
@@ -1013,7 +1013,7 @@
         "constant.numeric.binary"
       ],
       "settings": {
-        "foreground": "#C5E1B8"
+        "foreground": "#B5CEA8"
       }
     },
     {
@@ -1111,7 +1111,7 @@
   "name": "CSS Numbers",
   "scope": "constant.numeric.css",
   "settings": {
-    "foreground": "#C5E1B8"
+    "foreground": "#B5CEA8"
   }
 },
 {
