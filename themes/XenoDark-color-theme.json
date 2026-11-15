@@ -174,6 +174,22 @@
     },
 
     // JAVASCRIPT COLORING
+
+    {
+  "name": "Operator Keywords (typeof, instanceof, delete, in, of)",
+  "scope": [
+    "keyword.operator.expression.typeof",
+    "keyword.operator.expression.instanceof",
+    "keyword.operator.expression.delete",
+    "keyword.operator.expression.void",
+    "keyword.operator.expression.in",
+    "keyword.operator.expression.of",
+    "keyword.operator.new"
+  ],
+  "settings": {
+    "foreground": "#569CD6"
+  }
+},
     {
       "name": "Function Keywords & Storage Types",
       "scope": [
@@ -1291,6 +1307,7 @@
     "keyword.control.loop": "#C586C0",
     "variable.readonly.defaultLibrary": "#4FC1FF",
     "property.defaultLibrary:javascript": "#9CDCFE",
+    "function.defaultLibrary": "#4EC9B0",
 
     // HTML SEMANTIC
     "punctuation.definition.tag": "#FFD700",
